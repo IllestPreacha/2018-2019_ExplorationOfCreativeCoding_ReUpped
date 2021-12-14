@@ -1,0 +1,3 @@
+-- typeclasses
+-- Show
+-- Need an instance of the EQ Class

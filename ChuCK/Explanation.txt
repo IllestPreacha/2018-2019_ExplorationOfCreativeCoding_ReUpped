@@ -1,0 +1,5 @@
+In order to enable Chuck to be a livecoding environment, it has the ability to run concurrent process via a Chuckian Process called a shred.  
+Shreds can be removed, repeated and added and can overlay over each other as the video will showcase. 
+This was a major component of what is described as Chuckian and why ChuCK is able to be used in laptop ochestras, real time sound synthesis and also layered composition then every layer can be remodified on the fly. 
+Similar to buffers in Sonic Pi and the d1,d2, etc seen in TidalCycles. 
+Being able to create application, it has the ability to be use in making complex interactive systems, which is a bit more difficult in Tidalcycles and Sonic Pi. Showing that even though, audio programming languages can be used for the same thing, they still fall in different sub categories.
