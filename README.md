@@ -1,4 +1,4 @@
-# ExplorationOfCreativeCoding
+# ExplorationOfCreativeCoding( From 2018 - 2019)
 
 ChuCK- An Audio Based Programming language that has time built in to help concurrency and utilizes a mechanism called Shreds to handle the ability to work with live coding.
 
